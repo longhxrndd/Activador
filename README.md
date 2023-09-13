@@ -2,7 +2,7 @@
 
 Este es un activador personalizado desarrollado en C# para Office y Windows. 
 
-![Activador Preview](activador/Img/Img.png)
+![Activador Preview](activador/Img/img.png)
 
 ## ❗ Advertencia
 
